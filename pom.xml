@@ -5,12 +5,12 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.0</version>
+        <version>3.2.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.springframework</groupId>
     <artifactId>spring-6-auth-server</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.Final</version>
     <name>spring-6-auth-server</name>
     <description>spring-6-auth-server</description>
     <properties>
